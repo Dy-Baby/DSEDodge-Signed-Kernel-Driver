@@ -119,5 +119,8 @@ This project works in a similar way and depending on your motherboard/situation 
 
 Some motherboards allow you to have more than one `Platform Key` but if you can add `Authorized Signatures` it doesn't matter anyway.
 
+# Caution
+
+If you delete certificates and then leave your `BIOS` without saving changes (Power cut etc) you will brick your motherboard and have to flash it without any menus. (QFLASH)
 
 
