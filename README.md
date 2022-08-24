@@ -109,8 +109,6 @@ This may not work on earlier chipsets, It may be removed in later ones.
 
 Whether this works or not totally depends on your Motherboard/CPU combination.
 
-#### Have Fun and remember, Gödel's theorem suggests certain information can travel faster than the speed of light.
-
 # Related Project
 
 [Custom Kernel Signers](https://github.com/HyperSine/Windows10-CustomKernelSigners)
@@ -123,4 +121,4 @@ Some motherboards allow you to have more than one `Platform Key` but if you can 
 
 If you delete certificates and then leave your `BIOS` without saving changes (Power cut etc) you will brick your motherboard and have to flash it without any menus. (QFLASH)
 
-
+#### Have Fun and remember, Gödel's theorem suggests certain information can travel faster than the speed of light.
